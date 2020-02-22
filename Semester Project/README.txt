@@ -1,7 +1,7 @@
 A WALK AROUND A SOLAR SYSTEM
 
 Semester Project PHY 480
-Trevor Franklin A53760151
+Trevor Franklin
 
 PACKAGES USED
 1. numpy
