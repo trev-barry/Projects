@@ -4,7 +4,7 @@ This code was developed as an end of the semester project for one of my intro le
 ------------------------------------------------------------------------------------------------------------------------------
 ABOUT THE CODE
 
-This code uses scipy to fit a curve to my linear regression model. The model takes in four variables, number of retweets, media usage, tweet length, and use of tagging to predict the number of likes on any tweet. I chose to run this regression model because I was personally curious to see if there were any characteristics of the tweets that I produce that influence my followers to like a tweet or not. I found that number of retweets poetically impacted likes where tagging negatively influenced likes to the same degree as number of retweets.
+This code uses scipy to fit a curve to my linear regression model. The model takes in four variables, number of retweets, media usage, tweet length, and use of tagging to predict the number of likes on any tweet. I chose to run this regression model because I was personally curious to see if there were any characteristics of the tweets that I produce that influence my followers to like a tweet or not. I found that number of retweets positively impacted likes where tagging negatively influenced likes to the same degree as number of retweets.
 ------------------------------------------------------------------------------------------------------------------------------
 LIBRARIES USED
 
