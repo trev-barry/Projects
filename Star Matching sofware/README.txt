@@ -13,3 +13,6 @@ sys
 astropy.io
 pyfits
 PIL
+cv2
+matplotlib
+time
