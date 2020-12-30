@@ -1,0 +1,1 @@
+This paper was written for my senior thesis class spring 2020. This paper dives into the world of women in stem, their struggles, their progress, and what we can hope to achieve in the future.
